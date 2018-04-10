@@ -1,0 +1,13 @@
+F:\ServerConnectTest\DBSelect\bin\Debug\DBSelect.exe.config
+F:\ServerConnectTest\DBSelect\bin\Debug\DBSelect.exe
+F:\ServerConnectTest\DBSelect\bin\Debug\DBSelect.pdb
+F:\ServerConnectTest\DBSelect\bin\Debug\MySql.Data.dll
+F:\ServerConnectTest\DBSelect\bin\Debug\MySql.Data.xml
+F:\ServerConnectTest\DBSelect\obj\Debug\DBSelect.csprojResolveAssemblyReference.cache
+F:\ServerConnectTest\DBSelect\obj\Debug\DBSelect.DBselect.resources
+F:\ServerConnectTest\DBSelect\obj\Debug\DBSelect.Properties.Resources.resources
+F:\ServerConnectTest\DBSelect\obj\Debug\DBSelect.csproj.GenerateResource.cache
+F:\ServerConnectTest\DBSelect\obj\Debug\DBSelect.csproj.CoreCompileInputs.cache
+F:\ServerConnectTest\DBSelect\obj\Debug\DBSelect.csproj.CopyComplete
+F:\ServerConnectTest\DBSelect\obj\Debug\DBSelect.exe
+F:\ServerConnectTest\DBSelect\obj\Debug\DBSelect.pdb
