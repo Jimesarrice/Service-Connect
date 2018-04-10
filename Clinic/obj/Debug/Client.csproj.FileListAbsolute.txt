@@ -1,0 +1,16 @@
+F:\ServerConnectTest\Clinic\obj\Debug\ServerConnectTest.Client.resources
+F:\ServerConnectTest\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+F:\ServerConnectTest\Clinic\obj\Debug\Client.csproj.GenerateResource.cache
+F:\ServerConnectTest\Clinic\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\ServerConnectTest\Clinic\bin\Debug\Clinic.exe.config
+F:\ServerConnectTest\Clinic\bin\Debug\Clinic.exe
+F:\ServerConnectTest\Clinic\bin\Debug\Clinic.pdb
+F:\ServerConnectTest\Clinic\bin\Debug\HslCommunication.dll
+F:\ServerConnectTest\Clinic\bin\Debug\Newtonsoft.Json.dll
+F:\ServerConnectTest\Clinic\bin\Debug\HslCommunication.xml
+F:\ServerConnectTest\Clinic\bin\Debug\Newtonsoft.Json.xml
+F:\ServerConnectTest\Clinic\obj\Debug\Client.csproj.CopyComplete
+F:\ServerConnectTest\Clinic\obj\Debug\Clinic.exe
+F:\ServerConnectTest\Clinic\obj\Debug\Clinic.pdb
+F:\ServerConnectTest\Clinic\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\ServerConnectTest\Clinic\obj\Debug\Clinic.SinUp.resources
